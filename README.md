@@ -1,5 +1,5 @@
 # GetCurrentPosition-API
-
+This sample app demonstrate kony.location.getCurrentPosition API in Android and how to overcome the below issues
 **Title of the application name**
 
 This sample app demonstrate kony.location.getCurrentPosition API in Android and how to overcome the below issues
